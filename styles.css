@@ -1,15 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
-
 body {
-    background-color: #7EB5A6;
+    background-color: #7eb5a6;
     margin: 0 auto;
 }
 
 .keycode {
-    color: #5F939A;
+    color: #5f939a;
     text-align: center;
-    margin-top: 200px;
-    font-size: 40rem;
+    font-size: 60rem;
     font-family: "JetBrains Mono";
-    font-weight: bold; 
+    font-weight: bold;
 }
